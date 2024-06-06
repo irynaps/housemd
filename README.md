@@ -1,4 +1,5 @@
 # HOUSE MD Series. Data Analysis
+Project that analyses House MD series
 
 The project consists of:
 1. Webscrapping information from wikipedia about the TV series House MD.
